@@ -1,1 +1,10 @@
 
+<svg width="30" height="30" xmlns="http://www.w3.org/2000/svg">
+    <!-- Simple rectangle -->
+    
+    <rect x="3" y="3" width="25" height="5" rx="3"/>  <!-- rx Rounded corner rectangle -->
+    <rect x="3" y="10" width="25" height="5" rx="3"/>
+    <rect x="3" y="17" width="25" height="5" rx="3"/>
+    
+
+  </svg>
